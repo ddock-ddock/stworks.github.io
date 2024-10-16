@@ -8,6 +8,7 @@ mermaid: true
 STworks.kr은 똑똑[^dkdk] 주식회사에서 만든 스타트업 영업보고(투자자보고) 시스템입니다.
 
 ## 투자자 보고 업무의 일반 흐름
+원하는 메뉴를 클릭하시면 해당 매뉴얼로 이동합니다.
 
 ```mermaid
 flowchart TD
