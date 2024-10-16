@@ -27,12 +27,12 @@ flowchart TD
     n5 --> n6
     n6 --> n7
 
-    click n2 "{% post_url 2024-09-01-scm002 %}" " "
-    click n3 "{% post_url 2024-09-02-scm001 %}" " "
-    click n4 "{% post_url 2024-09-03-scm006 %}" " "
-    click n5 "{% post_url 2024-09-04-scm007 %}" " "
-    click n6 "{% post_url 2024-09-05-sbr001 %}" " "
-    click n7 "{% post_url 2024-09-06-sbr004 %}" " "
+    ##click n2 "{% post_url 2024-09-01-scm002 %}" " "
+    ##click n3 "{% post_url 2024-09-02-scm001 %}" " "
+    ##click n4 "{% post_url 2024-09-03-scm006 %}" " "
+    ##click n5 "{% post_url 2024-09-04-scm007 %}" " "
+    ##click n6 "{% post_url 2024-09-05-sbr001 %}" " "
+    ##click n7 "{% post_url 2024-09-06-sbr004 %}" " "
 
     style n1 fill:#e6ffe6,stroke:#66cc66,stroke-width:2px,rx:10,ry:10,color:#333333,fontColor:#333333
 ```
